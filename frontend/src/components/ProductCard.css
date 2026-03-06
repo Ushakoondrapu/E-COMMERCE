@@ -1,0 +1,20 @@
+    .card{
+    border:1px solid #ccc;
+    padding:20px;
+    width:200px;
+    text-align:center;
+    border-radius:5px;
+    }
+
+    .card button{
+    margin-top:10px;
+    padding:8px 15px;
+    background:green;
+    color:white;
+    border:none;
+    cursor:pointer;
+    }
+
+    .card button:hover{
+    background:darkgreen;
+    }

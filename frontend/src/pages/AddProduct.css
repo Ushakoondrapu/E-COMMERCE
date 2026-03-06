@@ -1,0 +1,27 @@
+    .add-product{
+    width:300px;
+    margin:auto;
+    margin-top:80px;
+    }
+
+    .add-product form{
+    display:flex;
+    flex-direction:column;
+    }
+
+    .add-product input{
+    margin-bottom:15px;
+    padding:10px;
+    }
+
+    .add-product button{
+    padding:10px;
+    background:rgb(5, 172, 5);
+    color:white;
+    border:none;
+    cursor: pointer;
+    }
+
+    .add-product button:hover{
+        background-color: darkgreen;
+    }

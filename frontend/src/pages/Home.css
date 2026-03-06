@@ -1,0 +1,36 @@
+    .home{
+    text-align:center;
+    padding:80px;
+    }
+
+    .home h1{
+    font-size:40px;
+    margin-bottom:20px;
+    }
+
+    .shop-btn{
+    padding:12px 25px;
+    font-size:16px;
+    background:orange;
+    border:none;
+    color:white;
+    cursor:pointer;
+    }
+
+    .shop-btn:hover{
+    background:rgb(57, 109, 205);
+    }
+
+    .footer{
+        background-color: rgb(97, 96, 96);
+        text-align: center;
+        bottom: 0;
+        position: fixed;
+        width: 100%;
+    }
+    
+    .footer p{
+        color: rgb(249, 244, 244);
+    }
+
+    

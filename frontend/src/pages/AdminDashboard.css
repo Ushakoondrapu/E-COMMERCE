@@ -1,0 +1,13 @@
+    .admin{
+    padding:40px;
+    text-align:center;
+    }
+
+    .admin-buttons button{
+    margin:10px;
+    padding:12px 20px;
+    background:green;
+    color:white;
+    border:none;
+    cursor:pointer;
+    }
