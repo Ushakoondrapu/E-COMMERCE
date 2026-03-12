@@ -2,6 +2,14 @@
     padding:40px;
     }
 
+    .cart button{
+        padding: 8px 15px;
+        background-color: green;
+        color: white;
+        border: none;
+        cursor: pointer;
+    }
+
     .cart-item{
     border:1px solid #ccc;
     padding:20px;
@@ -16,3 +24,5 @@
     border:none;
     cursor:pointer;
     }
+
+    

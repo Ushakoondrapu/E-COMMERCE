@@ -26,3 +26,18 @@
     .nav-links a:hover{
     color:orange;
     }
+
+    .cart-count{
+        position: relative;
+        font-size: 24px;
+    }
+
+    .cart-badge{
+        position: absolute;
+        top: -8px;
+        right: -10px;
+        /* background: red; */
+        color: orange;
+        padding: 2px 6px;
+        font-size: 17px;
+    }

@@ -1,0 +1,26 @@
+    .register{
+    width:300px;
+    margin:auto;
+    margin-top:80px;
+    }
+
+    .register form{
+    display:flex;
+    flex-direction:column;
+    }
+
+    .register input{
+    margin-bottom:15px;
+    padding:10px;
+    }
+
+    .register button{
+    padding:10px;
+    background:rgb(94, 94, 236);
+    color:white;
+    border:none;
+    }
+
+    .register button:hover{
+        background-color: blue;
+    }

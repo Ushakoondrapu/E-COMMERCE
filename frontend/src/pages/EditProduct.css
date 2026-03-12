@@ -1,5 +1,5 @@
     .edit-product{
-    width:300px;
+    width:500px;
     margin:auto;
     margin-top:80px;
     }
@@ -14,12 +14,22 @@
     padding:10px;
     }
 
-    .edit-product button{
-    padding:10px;
+    .edit-btn{
+    padding:5px;
     background:orange;
     color:white;
     border:none;
     cursor: pointer;
+    border-radius: 20%;
+    margin-left: 20px;
+    }
+
+    .updatebtn{
+        padding:5px;
+        background:orange;
+        color:white;
+        border:none;
+        cursor: pointer;
     }
 
     .edit-product button:hover{
